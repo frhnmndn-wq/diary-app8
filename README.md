@@ -15,3 +15,7 @@ Aplikasi catatan harian sederhana berbasis **React Native + Expo Router** yang m
 1. **Local State (`useState`)** menangani interaksi form yang bersifat sementara sebelum di-*submit*[cite: 7, 29].
 2. **Global Redux State** menjaga konsistensi data `diary` lintas *screen* (*Home*, *Tambah*, *Favorite*, *Detail*, dan *Edit*)[cite: 6, 7, 16, 17, 40].
 3. **Persistent Database** berfungsi sebagai penyimpanan jangka panjang agar data tidak hilang ketika aplikasi ditutup atau di-*reload*[cite: 38, 39].
+
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/694cb87c-9d76-4a29-8a72-628fef962d50" />
+
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/b759c6f3-bb9f-4093-bc2c-2c558b34ee24" />
